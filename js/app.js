@@ -17,7 +17,7 @@ example.run(function($ionicPlatform) {
       StatusBar.styleDefault();
     }
     
-    fb = new Firebase("https://URL.firebaseio.com/");
+    fb = new Firebase("https://<my-firebase-URL>.firebaseio.com/");
   });
 });
 
